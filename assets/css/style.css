@@ -20,9 +20,9 @@ body {
   display: inline-block;
   font-size: 48px;
 }
-
+/* Altered color to imporve the visual contrast */
 .header h1 .seo {
-  color: #d9dcd6;
+  color: rgb(142, 191, 231);
 }
 /* replaced div with nav to reflect html */
 .header nav {
